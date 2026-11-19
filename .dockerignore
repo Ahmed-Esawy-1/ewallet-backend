@@ -1,6 +1,6 @@
 target/
 .git/
 .gitignore
-.mvn/
-*/md
+*.md
 .vscode/
+.idea/

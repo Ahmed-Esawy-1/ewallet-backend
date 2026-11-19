@@ -53,5 +53,6 @@ A production-grade digital wallet and peer-to-peer (P2P) payment backend built w
 
 ### 1. Clone & Launch the Stack
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/E-Wallet.git
+git clone [https://github.com/Ahmed-Esawy-1/ewallet-backend.git](https://github.com/Ahmed-Esawy-1/ewallet-backend.git)
+cd ewallet-backend
 docker compose up -d --build
